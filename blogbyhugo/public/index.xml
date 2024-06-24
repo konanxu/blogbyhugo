@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Konan&#39;s Blog</title>
+    <link>https://localhost:1313/</link>
+    <description>Recent content on Konan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>©2023 konanxu</copyright>
+    <lastBuildDate>Sun, 23 Jun 2024 13:43:23 +0800</lastBuildDate><atom:link href="https://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test1</title>
+      <link>https://localhost:1313/lives/test1/</link>
+      <pubDate>Sun, 23 Jun 2024 13:43:23 +0800</pubDate>
+      
+      <guid>https://localhost:1313/lives/test1/</guid>
+      <description> lives test1 # </description>
+      
+    </item>
+    
+    <item>
+      <title>Hello Hugo</title>
+      <link>https://localhost:1313/posts/hello-hugo/</link>
+      <pubDate>Mon, 17 Jun 2024 23:59:32 +0800</pubDate>
+      
+      <guid>https://localhost:1313/posts/hello-hugo/</guid>
+      <description> djhfdf333 # </description>
+      
+    </item>
+    
+  </channel>
+</rss>

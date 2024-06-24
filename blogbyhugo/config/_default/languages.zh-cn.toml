@@ -1,0 +1,23 @@
+languageCode = "zh-cn"
+languageName = "chinese"
+weight = 1
+title = "Konan's Blog"
+
+[params]
+  displayName = "Zh-CN"
+  isoCode = "zh-Hans-CN"
+  rtl = false
+  dateFormat = "2006-01-02"
+  # logo = "img/note_logo_mini.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  copyright = "©2023 konanxu"
+
+[author]
+  name = "konan"
+  image = "img/ikun.jpg"
+  headline = "记录与分享"
+  bio = "编程 | 工具"
+  links = [
+    {github = "https://github.com/konanxu"}
+  ]
