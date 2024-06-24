@@ -23,8 +23,7 @@ jobs:
                   hugo-version: "latest"
 
             - name: Build Web
-              run: cd ./blogbyhugo
-                   hugo
+              run: cd ./blogbyhugo; hugo
 
             - name: Deploy Web
               uses: peaceiris/actions-gh-pages@v3
