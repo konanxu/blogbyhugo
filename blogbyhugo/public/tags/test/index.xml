@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on Konan&#39;s Blog</title>
+    <link>https://konanxu.github.io/tags/test/</link>
+    <description>Recent content in test on Konan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>©2024 KonanXu</copyright>
+    <lastBuildDate>Tue, 25 Jun 2024 14:47:29 +0800</lastBuildDate><atom:link href="https://konanxu.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试</title>
+      <link>https://konanxu.github.io/posts/test-slug/</link>
+      <pubDate>Tue, 25 Jun 2024 14:47:29 +0800</pubDate>
+      
+      <guid>https://konanxu.github.io/posts/test-slug/</guid>
+      <description> 测试slug # </description>
+      
+    </item>
+    
+    <item>
+      <title>Hello Hugo</title>
+      <link>https://konanxu.github.io/posts/hello-hugo/</link>
+      <pubDate>Mon, 17 Jun 2024 23:59:32 +0800</pubDate>
+      
+      <guid>https://konanxu.github.io/posts/hello-hugo/</guid>
+      <description> djhfdf333 # update github action function # </description>
+      
+    </item>
+    
+  </channel>
+</rss>

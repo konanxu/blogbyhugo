@@ -2,29 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Konan&#39;s Blog</title>
-    <link>https://localhost:1313/</link>
+    <link>https://konanxu.github.io/</link>
     <description>Recent content on Konan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>©2023 konanxu</copyright>
-    <lastBuildDate>Sun, 23 Jun 2024 13:43:23 +0800</lastBuildDate><atom:link href="https://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>©2024 KonanXu</copyright>
+    <lastBuildDate>Tue, 25 Jun 2024 16:21:00 +0800</lastBuildDate><atom:link href="https://konanxu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试</title>
+      <link>https://konanxu.github.io/posts/test-slug/</link>
+      <pubDate>Tue, 25 Jun 2024 14:47:29 +0800</pubDate>
+      
+      <guid>https://konanxu.github.io/posts/test-slug/</guid>
+      <description> 测试slug # </description>
+      
+    </item>
+    
     <item>
       <title>Test1</title>
-      <link>https://localhost:1313/lives/test1/</link>
+      <link>https://konanxu.github.io/lives/test1/</link>
       <pubDate>Sun, 23 Jun 2024 13:43:23 +0800</pubDate>
       
-      <guid>https://localhost:1313/lives/test1/</guid>
+      <guid>https://konanxu.github.io/lives/test1/</guid>
       <description> lives test1 # </description>
       
     </item>
     
     <item>
       <title>Hello Hugo</title>
-      <link>https://localhost:1313/posts/hello-hugo/</link>
+      <link>https://konanxu.github.io/posts/hello-hugo/</link>
       <pubDate>Mon, 17 Jun 2024 23:59:32 +0800</pubDate>
       
-      <guid>https://localhost:1313/posts/hello-hugo/</guid>
-      <description> djhfdf333 # </description>
+      <guid>https://konanxu.github.io/posts/hello-hugo/</guid>
+      <description> djhfdf333 # update github action function # </description>
       
     </item>
     

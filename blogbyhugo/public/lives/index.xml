@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lives on Konan&#39;s Blog</title>
-    <link>https://localhost:1313/lives/</link>
+    <link>https://konanxu.github.io/lives/</link>
     <description>Recent content in lives on Konan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>©2023 konanxu</copyright>
-    <lastBuildDate>Tue, 18 Jun 2024 21:57:13 +0800</lastBuildDate><atom:link href="https://localhost:1313/lives/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>©2024 KonanXu</copyright>
+    <lastBuildDate>Tue, 18 Jun 2024 21:57:13 +0800</lastBuildDate><atom:link href="https://konanxu.github.io/lives/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test1</title>
-      <link>https://localhost:1313/lives/test1/</link>
+      <link>https://konanxu.github.io/lives/test1/</link>
       <pubDate>Sun, 23 Jun 2024 13:43:23 +0800</pubDate>
       
-      <guid>https://localhost:1313/lives/test1/</guid>
+      <guid>https://konanxu.github.io/lives/test1/</guid>
       <description> lives test1 # </description>
       
     </item>

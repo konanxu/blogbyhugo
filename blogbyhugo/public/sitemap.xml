@@ -3,31 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://localhost:1313/</loc>
+    <loc>https://konanxu.github.io/</loc>
+    <lastmod>2024-06-25T16:21:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://konanxu.github.io/python/</loc>
+    <lastmod>2024-06-25T16:21:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://konanxu.github.io/posts/test-slug/</loc>
+    <lastmod>2024-06-25T14:47:29+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://konanxu.github.io/lives/test1/</loc>
     <lastmod>2024-06-23T13:43:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/lives/test1/</loc>
-    <lastmod>2024-06-23T13:43:23+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost:1313/lives/</loc>
+    <loc>https://konanxu.github.io/lives/</loc>
     <lastmod>2024-06-18T21:57:13+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/posts/</loc>
+    <loc>https://konanxu.github.io/posts/</loc>
     <lastmod>2024-06-18T21:57:13+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/posts/hello-hugo/</loc>
+    <loc>https://konanxu.github.io/posts/hello-hugo/</loc>
     <lastmod>2024-06-17T23:59:32+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

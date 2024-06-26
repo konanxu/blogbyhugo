@@ -1,6 +1,7 @@
 ---
 title: "Hello Hugo"
 date: 2024-06-17T23:59:32+08:00
+tags: ["test"]
 ---
 
 ## djhfdf333

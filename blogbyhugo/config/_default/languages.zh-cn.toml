@@ -8,10 +8,10 @@ title = "Konan's Blog"
   isoCode = "zh-Hans-CN"
   rtl = false
   dateFormat = "2006-01-02"
-  # logo = "img/note_logo_mini.png"
+  logo = "img/ikun_mini.jpg"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  copyright = "©2023 konanxu"
+  copyright = "©2024 KonanXu"
 
 [author]
   name = "konan"

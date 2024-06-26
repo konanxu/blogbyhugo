@@ -11,14 +11,37 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
+  name = "搬砖"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "生活"
+  name = "语言学习"
+  weight = 20
+
+[[main]]
+  name = "英语"
+  pre = "apple"
+  parent = "语言学习"
+  pageRef = "languages/english"
+  weight = 10
+
+[[main]]
+  name = "日语"
+  pre = "bell"
+  parent = "语言学习"
+  pageRef = "languages/japanese"
+  weight = 10
+
+[[main]]
+  name = "软件工具"
   pageRef = "lives"
   weight = 10
+
+[[main]]
+  name = "笔记"
+  pageRef = "notes"
+  weight = 30
 
 #[[main]]
 #  name = "Parent"
@@ -63,12 +86,13 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+  name = "标签"
+  pageRef = "tags"
+  weight = 10
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+
+[[footer]]
+  name = "类别"
+  pageRef = "categories"
+  weight = 20
