@@ -13,7 +13,7 @@ title = "Konan's Blog"
   # description = "My awesome website"
   copyright = "©2024 KonanXu"
 
-[author]
+[params.author]
   name = "konan"
   image = "img/ikun.jpg"
   headline = "记录与分享"

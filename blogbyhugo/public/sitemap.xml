@@ -1,46 +1,102 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
   <url>
-    <loc>https://konanxu.github.io/</loc>
-    <lastmod>2024-06-25T16:21:00+08:00</lastmod>
+    <loc>http://localhost:1313/languages/japanese/43/</loc>
+    <lastmod>2025-01-09T03:23:37+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://konanxu.github.io/python/</loc>
-    <lastmod>2024-06-25T16:21:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-09T03:23:37+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://konanxu.github.io/posts/test-slug/</loc>
+  </url><url>
+    <loc>http://localhost:1313/languages/</loc>
+    <lastmod>2025-01-09T03:23:37+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/notes/</loc>
+    <lastmod>2024-06-26T22:42:41+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-26T22:42:41+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/tools/</loc>
+    <lastmod>2024-06-26T22:42:41+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/tools/</loc>
+    <lastmod>2024-06-26T22:42:41+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/languages/japanese/</loc>
+    <lastmod>2024-06-26T22:42:41+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/languages/english/</loc>
+    <lastmod>2024-06-26T22:42:41+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/python/</loc>
+    <lastmod>2024-06-26T22:42:41+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/test/</loc>
+    <lastmod>2024-06-26T22:42:41+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/test-slug/</loc>
     <lastmod>2024-06-25T14:47:29+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://konanxu.github.io/lives/test1/</loc>
-    <lastmod>2024-06-23T13:43:23+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-06-26T22:42:41+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://konanxu.github.io/lives/</loc>
-    <lastmod>2024-06-18T21:57:13+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/python/</loc>
+    <lastmod>2024-06-26T22:42:41+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://konanxu.github.io/posts/</loc>
-    <lastmod>2024-06-18T21:57:13+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lives/test1/</loc>
+    <lastmod>2024-06-26T22:42:41+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://konanxu.github.io/posts/hello-hugo/</loc>
-    <lastmod>2024-06-17T23:59:32+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lives/</loc>
+    <lastmod>2024-06-24T19:29:16+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-06-24T19:29:16+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/hello-hugo/</loc>
+    <lastmod>2024-06-26T22:42:41+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
